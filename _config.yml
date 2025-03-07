@@ -22,10 +22,10 @@ title: " "
 email: maryam@spes.uniud.it
 description: >- # this means to ignore newlines until "baseurl:"
   Maryam Maryam - PhD Student @ UniUd - Software Engineering Research
-url: "https://M1asR.github.io" # the base hostname & protocol for your site
+url: "https://deeptestai.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: Maryam
-github_username:  maryam-tech
+github_username: deeptestai
 
 # Site Footer
 footer:
@@ -35,13 +35,13 @@ footer:
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-3x"
-      url: "https://github.com/p1ndsvin"
+      url: "https://github.com/deeptestai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin fa-3x"
-      url: "https://www.linkedin.com/in/vincenzo-riccio-ab1b1993"
+      url: "https://www.linkedin.com/in/maryam-588693122"
 
 author:
-  name: "Vincenzo Riccio"
+  name: "Maryam Maryam"
   #avatar: "/assets/images/Mar.png"
   bio: "PhD Student @ UniUd" # Note: Markdown is allowed
   location: "Udine, Italy"
@@ -54,7 +54,7 @@ author:
       url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/M1asR"
+      url: "https://github.com/deeptestai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/maryam-588693122"
