@@ -49,7 +49,7 @@ I am a <strong>PhD student at Università di Udine, Italy</strong>, specializing
   <div class="container left">
     <div class="content">
       <h3>M.Sc. Computer Science</h3>
-      <p style="font-size:20px"><a href="#">Government University Lahore</a></p>      
+      <p style="font-size:20px"><a href="https://gcu.edu.pk/">Government University Lahore</a></p>      
       <p style="font-size:15px">Lahore, Pakistan<br> 2012-2014</p>
     </div>
   </div>
