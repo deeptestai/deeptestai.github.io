@@ -5,7 +5,7 @@ title: "Bio"
 ---
 
 <div class="row">
-<img src="{{site.baseurl}}/assets/images/profile-picture.jpeg" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
+<img src="{{site.baseurl}}/assets/images/Mar.png" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
 </div>
 
 I am a **PhD student at Università di Udine, Italy**, specializing in **AI & Software Engineering Research, Generative AI, and Software Testing**. My research focuses on testing **deep learning systems using Generative AI models** like **Stable Diffusion and Large Language Models (LLMs)**. I aim to develop **automated test generators** to enhance software testing accuracy and efficiency, particularly through **anomaly detection and model evaluation techniques**.
@@ -22,13 +22,13 @@ I am a **PhD student at Università di Udine, Italy**, specializing in **AI & So
     <div class="image-cropper">
       <img src="{{site.baseurl}}/assets/images/brain.png"/>
     </div>
-    <p style="font-size:20px">Artificial<br> Intelligence</p>
+    <p style="font-size:20px">Generative AI &<br> LLM Models</p>
   </div>
   <div class="column">
     <div class="image-cropper">
       <img src="{{site.baseurl}}/assets/images/dna.png"/>
     </div>
-    <p style="font-size:20px">Generative AI &<br> LLM Models</p>
+    <p style="font-size:20px">Evolutionary<br> Computation</p>
   </div>
 </div>
 
