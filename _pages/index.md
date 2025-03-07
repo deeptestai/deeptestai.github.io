@@ -113,27 +113,13 @@ I am a **PhD student at Università di Udine, Italy**, specializing in **AI & So
 
 ---
 
-## **Certifications & Courses**
-- **CCNA + RHCSA & CCNP** (Network Security).  
-- **Data Science, Statistics & R**.  
-
----
-
 ## **Skills**
+- **Frameworks:** PyTorch, TensorFlow, LangChain  
+- **Tools:** Flowise, Docker, Git, Jupyter Notebook  
 - **Programming:** Python, MATLAB, C/C++  
+- **Databases:** PostgreSQL, SQL 
 - **Machine Learning & AI:** Generative AI, Deep Learning, LLM Models  
 - **Software Engineering:** Software Testing, Quality Assurance  
 - **Soft Skills:** Teamwork, Adaptability, Problem Solving, Time Management  
 
----
-
-## **Contact**
-**Email:**  
-- maryam *at* spes *dot* uniud – You can contact me here as well.  
-- maryammeri06 *at* gmail *dot* com  
-
-**Social Links:**  
-[LinkedIn](https://www.linkedin.com/in/maryam-588693122)  
-
----
 
