@@ -60,7 +60,7 @@ I am a **PhD student at Università di Udine, Italy**, specializing in **AI & So
     <div class="content">
       <h3>Senior Lecturer</h3>
       <p style="font-size:20px"><a href="#">Superior University</a></p>      
-      <p style="font-size:15px">Lahore, Pakistan<br> Sep 2015 - Sep 2017</p>
+      <p style="font-size:15px">Lahore, Pakistan<br> Nov 2017 - Mar 2023</p>
     </div>
   </div>
 
@@ -68,7 +68,7 @@ I am a **PhD student at Università di Udine, Italy**, specializing in **AI & So
     <div class="content">
       <h3>Lecturer</h3>
       <p style="font-size:20px"><a href="#">University South Asia</a></p>      
-      <p style="font-size:15px">Lahore, Pakistan<br> Nov 2017 - Mar 2023</p>
+      <p style="font-size:15px">Lahore, Pakistan<br> Sep 2015 - Sep 2017</p>
     </div>
   </div>
 
@@ -85,22 +85,6 @@ I am a **PhD student at Università di Udine, Italy**, specializing in **AI & So
       <h3>Research Assistant</h3>
       <p style="font-size:20px"><a href="#">Government College University (GCU)</a></p>
       <p style="font-size:15px">Lahore, Pakistan<br> Oct 2013 - Jun 2014</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h3>Internship</h3>
-      <p style="font-size:20px"><a href="#">US Agency for International Development</a></p>
-      <p style="font-size:15px">Islamabad, Pakistan<br> Feb 2010 - May 2010</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h3>Internship</h3>
-      <p style="font-size:20px"><a href="#">INSIEL</a></p>
-      <p style="font-size:15px">Italy<br> Oct 15, 2024 - Apr 15, 2025</p>
     </div>
   </div>
 </div>
