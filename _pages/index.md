@@ -1,14 +1,17 @@
 ---
 layout: single
 permalink: /
-title: "Bio"
+title: "About Me"
 ---
 
 <div class="row">
 <img src="{{site.baseurl}}/assets/images/Mar.png" alt="Avatar" style="width:200px; border-radius: 50%;  display: block;margin-left: auto;margin-right: auto; padding-bottom:20px">
 </div>
 
-I am a **PhD student at Università di Udine, Italy**, specializing in **AI & Software Engineering Research, Generative AI, and Software Testing**. My research focuses on testing **deep learning systems using Generative AI models** like **Stable Diffusion and Large Language Models (LLMs)**. I aim to develop **automated test generators** to enhance software testing accuracy and efficiency, particularly through **anomaly detection and model evaluation techniques**.
+<p style="text-align: justify;">
+I am a <strong>PhD student at Università di Udine, Italy</strong>, specializing in <strong>AI & Software Engineering Research, Generative AI, and Software Testing</strong>. My research focuses on testing <strong>deep learning systems using Generative AI models</strong> like <strong>Stable Diffusion and Large Language Models (LLMs)</strong>. I aim to develop <strong>automated test generators</strong> to enhance software testing accuracy and efficiency, particularly through <strong>anomaly detection and model evaluation techniques</strong>.
+</p>
+
 
 ## **Research Interests**
 <div class="row">
