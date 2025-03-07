@@ -137,7 +137,3 @@ I am a **PhD student at Università di Udine, Italy**, specializing in **AI & So
 
 ---
 
-### **Final Notes**
-This version makes your **bio structured and professional**, highlights your **research expertise, experience, and achievements**, and optimizes the layout for **clarity and readability**. 🚀  
-
-Would you like to add any more details or make further refinements? 😊
