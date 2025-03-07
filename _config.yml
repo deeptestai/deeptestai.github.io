@@ -25,14 +25,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://M1asR.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: Maryam
-github_username:  M1asR
+github_username:  maryam-tech
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter fa-3x"
-      url: "https://twitter.com/p1ndsvin"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-3x"
       url: "https://github.com/p1ndsvin"
