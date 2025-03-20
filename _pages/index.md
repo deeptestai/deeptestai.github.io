@@ -9,8 +9,7 @@ title: "About Me"
 </div>
 
 <p style="text-align: justify;">
-I am a <strong>PhD student at Università di Udine, Italy</strong>, specializing in <strong>AI & Software Engineering Research, Generative AI, and Software Testing</strong>. My research focuses on testing <strong>deep learning systems using Generative AI models</strong> like <strong>Stable Diffusion and Large Language Models (LLMs)</strong>. I aim to develop <strong>automated test generators</strong> to enhance software testing accuracy and efficiency, particularly through <strong>anomaly detection and model evaluation techniques</strong>.
-</p>
+<p><strong>Maryam</strong> is a PhD student at <strong>Università di Udine, Italy</strong>, specializing in <strong>AI and Software Engineering Research</strong>. Her research focuses on testing deep learning systems using Generative AI models like <strong>Stable Diffusion</strong> and <strong>Large Language Models (LLMs)</strong>. She aims to develop <strong>automated test generators</strong> to improve software testing accuracy and efficiency, particularly through <strong>anomaly detection</strong> and <strong>model evaluation techniques</strong>. Maryam is a <strong>software engineer</strong> with expertise in <strong>AI-driven software testing</strong>.</p>
 
 
 ## **Research Interests**
