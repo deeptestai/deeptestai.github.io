@@ -87,7 +87,7 @@ title: "About Me"
 ---
 
 ## **Achievements**
-- **Distinguished Paper Award** for research excellence at [**ICST 2025**](./assets/images/maryam-distinguishedpaper-award.jpeg).
+- **Distinguished Paper Award** for research excellence at [**ICST 2025**](https://github.com/deeptestai/deeptestai.github.io/blob/main/assets/images/maryam-distinguishedpaper-award.jpeg).
 - **Merit-based PhD Scholarship** for research excellence under the **PNRR program**.  
 - **HEC Travel Grant**, awarded for attending an academic conference in **Bangkok, Thailand**.  
 
