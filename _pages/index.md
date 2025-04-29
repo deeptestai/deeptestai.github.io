@@ -62,11 +62,19 @@ title: "About Me"
     <div class="content">
       <h3>PhD Visiting Student</h3>
       <p style="font-size:20px"><a href="https://www.fortiss.org/en">fortiss Lab, TUM University Munich</a></p>      
-      <p style="font-size:15px">Munich, Germany<br> 01-May,2025 - 31 oct,2025</p>
+      <p style="font-size:15px">Munich, Germany<br> starting from 01 May,2025 </p>
     </div>
   </div>
 
   <div class="container left">
+    <div class="content">
+      <h3>Research Intern</h3>
+      <p style="font-size:20px"><a href="https://www.insiel.it/">Insiel S.p.A.</a></p>      
+      <p style="font-size:15px">Trieste, Italy<br> 15 october,2024 - 15,April 2025</p>
+    </div>
+  </div>
+
+  <div class="container right">
     <div class="content">
       <h3>Research Assistant</h3>
       <p style="font-size:20px"><a href="https://gcu.edu.pk/">Government College University (GCU)</a></p>
@@ -74,6 +82,7 @@ title: "About Me"
     </div>
   </div>
 </div>
+
 
 ---
 
