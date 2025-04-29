@@ -49,7 +49,7 @@ title: "About Me"
     <div class="content">
       <h3>M.Sc. Computer Science</h3>
       <p style="font-size:20px"><a href="https://gcu.edu.pk/">Government College University Lahore</a></p>      
-      <p style="font-size:15px">Lahore, Pakistan<br> 2012-2014</p>
+      <p style="font-size:15px">Lahore, Pakistan<br> 2014</p>
     </div>
   </div>
 </div>
@@ -62,7 +62,7 @@ title: "About Me"
     <div class="content">
       <h3>PhD Visiting Student</h3>
       <p style="font-size:20px"><a href="https://www.fortiss.org/en">fortiss Lab, TUM University Munich</a></p>      
-      <p style="font-size:15px">Munich, Germany<br> 2024 - Present</p>
+      <p style="font-size:15px">Munich, Germany<br> 01-May,2025 - 31 oct,2025</p>
     </div>
   </div>
 
@@ -70,7 +70,7 @@ title: "About Me"
     <div class="content">
       <h3>Research Assistant</h3>
       <p style="font-size:20px"><a href="https://gcu.edu.pk/">Government College University (GCU)</a></p>
-      <p style="font-size:15px">Lahore, Pakistan<br> Oct 2013 - Jun 2014</p>
+      <p style="font-size:15px">Lahore, Pakistan<br> 2014</p>
     </div>
   </div>
 </div>
@@ -78,6 +78,7 @@ title: "About Me"
 ---
 
 ## **Achievements**
+- **Distinguished Paper Award** for research excellence at [**ICST 2025**]().
 - **Merit-based PhD Scholarship** for research excellence under the **PNRR program**.  
 - **HEC Travel Grant**, awarded for attending an academic conference in **Bangkok, Thailand**.  
 
