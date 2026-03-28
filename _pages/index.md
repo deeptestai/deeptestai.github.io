@@ -9,7 +9,9 @@ title: "About Me"
 </div>
 
 <p style="text-align: justify;">
-<strong>Maryam</strong> is a PhD student at <strong>Università di Udine, Italy</strong>, specializing in <strong>AI and Software Engineering Research</strong>. Her research focuses on testing deep learning systems using Generative AI models like <strong>Stable Diffusion</strong> and <strong>Large Language Models (LLMs)</strong>. She aims to develop <strong>automated test generators</strong> to improve software testing accuracy and efficiency, particularly through <strong>anomaly detection</strong> and <strong>model evaluation techniques</strong>. Maryam is a <strong>software engineer</strong> with expertise in <strong>AI-driven software testing</strong>.
+<strong>Research Assistant at Lero, University of Limerick</strong>, specializing in <strong>AI and Software Engineering Research</strong>. Current work focuses on <strong>LLM4Testing</strong>, leveraging <strong>Large Language Models (LLMs)</strong> for automated software testing and system evaluation. 
+
+Previous work focused on testing deep learning systems using <strong>Generative AI</strong> (e.g., <strong>Stable Diffusion</strong>). The goal is to develop <strong>automated test generation techniques</strong> to improve software testing reliability and efficiency, with a focus on <strong>anomaly detection</strong> and <strong>model evaluation</strong>. Background in <strong>software engineering</strong> with expertise in <strong>AI-driven software testing</strong>.
 </p>
 
 ## **Research Interests**
