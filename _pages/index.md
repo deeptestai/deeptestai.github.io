@@ -60,6 +60,19 @@ Previous work focused on testing deep learning systems using <strong>Generative 
 
 ## **Experience**
 <div class="timeline">
+
+  <div class="container-highlight right">
+    <div class="content">
+      <h3>Research Assistant</h3>
+      <p style="font-size:20px">
+        <a href="https://lero.ie/">Lero, University of Limerick</a>
+      </p>      
+      <p style="font-size:15px">
+        Limerick, Ireland<br> 2025 – Present
+      </p>
+    </div>
+  </div>
+<div class="timeline">
   <div class="container-highlight right">
     <div class="content">
       <h3>PhD Visiting Student</h3>
