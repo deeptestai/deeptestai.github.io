@@ -68,36 +68,48 @@ Previous work focused on testing deep learning systems using <strong>Generative 
         <a href="https://lero.ie/">Lero, University of Limerick</a>
       </p>      
       <p style="font-size:15px">
-        Limerick, Ireland<br> 2025 – Present
+        Limerick, Ireland<br> 2026 – Present
       </p>
     </div>
   </div>
-<div class="timeline">
+
   <div class="container-highlight right">
     <div class="content">
       <h3>PhD Visiting Student</h3>
-      <p style="font-size:20px"><a href="https://www.fortiss.org/en">fortiss Lab, TUM University Munich</a></p>      
-      <p style="font-size:15px">Munich, Germany<br> starting from 01 May,2025 </p>
+      <p style="font-size:20px">
+        <a href="https://www.fortiss.org/en">fortiss Lab, TUM University Munich</a>
+      </p>      
+      <p style="font-size:15px">
+        Munich, Germany<br> May 2025 – Present
+      </p>
     </div>
   </div>
 
   <div class="container left">
     <div class="content">
       <h3>Research Intern</h3>
-      <p style="font-size:20px"><a href="https://www.insiel.it/">Insiel S.p.A.</a></p>      
-      <p style="font-size:15px">Trieste, Italy<br> 15 october,2024 - 15,April 2025</p>
+      <p style="font-size:20px">
+        <a href="https://www.insiel.it/">Insiel S.p.A.</a>
+      </p>      
+      <p style="font-size:15px">
+        Trieste, Italy<br> Oct 2024 – Apr 2025
+      </p>
     </div>
   </div>
 
   <div class="container right">
     <div class="content">
       <h3>Research Assistant</h3>
-      <p style="font-size:20px"><a href="https://gcu.edu.pk/">Government College University (GCU)</a></p>
-      <p style="font-size:15px">Lahore, Pakistan<br> 2014</p>
+      <p style="font-size:20px">
+        <a href="https://gcu.edu.pk/">Government College University (GCU)</a>
+      </p>
+      <p style="font-size:15px">
+        Lahore, Pakistan<br> 2014
+      </p>
     </div>
   </div>
-</div>
 
+</div>
 
 ---
 
