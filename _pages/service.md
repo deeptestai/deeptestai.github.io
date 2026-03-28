@@ -4,6 +4,16 @@ title: "Service"
 permalink: /service/
 ---
 
+
+## Reviewer Service
+
+<h3>Conferences</h3>
+
+<ul>
+  <li><strong>ICST 2026</strong> – Reviewer (Artifact Evaluation Committee, PC Member)</li>
+  <li><strong>SBSE 2025</strong> – Reviewer (Challenge Track)</li>
+</ul>
+
 ## **Internships**
 
 ### **Internship at Insiel S.p.A, Trieste, Italy**  
