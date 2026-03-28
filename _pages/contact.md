@@ -6,6 +6,6 @@ permalink: /contact/
 
 ## Email
 
-- maryam *at* spes *dot* uniud  
+- maryam dot maryam at ul dot ie  
 - maryammeri06 *at* gmail *dot* com – You can contact me here as well.  
 
