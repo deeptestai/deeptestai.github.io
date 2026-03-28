@@ -10,8 +10,8 @@ permalink: /service/
 <h3>Conferences</h3>
 
 <ul>
-  <li><strong>ICST 2026</strong> – Reviewer (Artifact Evaluation Committee, PC Member)</li>
-  <li><strong>SBSE 2025</strong> – Reviewer (Challenge Track)</li>
+  <li><strong>ICST 2026</strong> –  PC Member(Artifact Evaluation Committee)</li>
+  <li><strong>SBSE 2025</strong> – PC Member (Challenge Track)</li>
 </ul>
 
 ## **Internships**
