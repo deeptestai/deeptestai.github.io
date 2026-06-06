@@ -9,7 +9,7 @@ permalink: /publications/
 * **GIFTbench: Generative Image Fuzz Testing Benchmark**  
   Maryam, Matteo Biagiola, Andrea Stocco, and Vincenzo Riccio  
   *Science of Computer Programming, Volume 253, Article 103502, Elsevier, 2026*  
-  [\[PDF\]](/assets/pdf/GIFTbench_SCICO2026.pdf) [\[DOI\]](https://doi.org/10.1016/j.scico.2026.103502)
+  [\[PDF\]](/assets/pdf/GIFTbench.pdf) [\[DOI\]](https://doi.org/10.1016/j.scico.2026.103502)
 
 * **DeepNaqqal: Human-Aligned Automated Validation of Test Inputs for Deep Learning**  
   Maryam, Matteo Biagiola, Paolo Tonella, and Vincenzo Riccio  
